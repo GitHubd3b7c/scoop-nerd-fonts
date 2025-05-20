@@ -4,20 +4,20 @@
     "homepage": "https://github.com/lxgw/LxgwBright",
     "license": "OFL-1.1",
     "url": [
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-Italic.otf",
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-Medium.otf",
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-MediumItalic.otf",
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-Regular.otf",
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-SemiLight.otf",
-        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.321/LXGWBright/LXGWBright-SemiLightItalic.otf"
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-Italic.ttf",
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-Medium.ttf",
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-MediumItalic.ttf",
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-Regular.ttf",
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-Light.ttf",
+        "https://raw.githubusercontent.com/lxgw/LxgwBright/v5.517/LXGWBright/LXGWBright-LightItalic.ttf"
     ],
     "hash": [
-        "02781f15fbd5fdd81bdd6cc55726f41bfab6097b6b0f58d1c785bb7c62905928",
-        "91436cdc6e4b144c0e771f2428c7fe69a170f85beb17577ff784cd92bdccfd8d",
-        "163fd14ecb170475d5e7642458018407c1e33fbf898f6cfc1fad782a059c71d4",
-        "2112a3ce5bf32b94676519e7e946884134f4be8424488a4292d45addd12cf6a4",
-        "442e74dc52ad31e77cef262d5c9caa6660b0b80acde9f308e8f6b2a9aaf2e0df",
-        "44f559571ff6f09dfc6eb09793a3ee04249edda56e11c137f69761bcb278e223"
+        "A686B25C01CAEC5920FB24EDA6076FBBC506D0C4D1EE371CD09169F9EFC8C25C",
+        "A6141674EA6A7954EE1E7C6D59210ADB5FE5FC9BEEB4A2BE13E3A762D55A9275",
+        "34C75E7DF18810706574660FE7823BD9CDF4F25A117C65FBCCD5DCFC9AFFA2A1",
+        "8B23523664ED8F0DAE6D1CF16F8E35EB3BA7AEF309EBAAB4245EFB58A6E1C88A",
+        "E64624BAC66E1E7185D292B03F07AD0E029E4C2708368FD9B9A811E9D07B7AE1",
+        "758DC0045B88081260A33388CE4891A216C8C4A031E5A53DE5307CB3B0D6959F"
     ],
     "installer": {
         "script": [
@@ -102,12 +102,12 @@
     "checkver": "github",
     "autoupdate": {
         "url": [
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Italic.otf",
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Medium.otf",
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-MediumItalic.otf",
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Regular.otf",
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLight.otf",
-            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-SemiLightItalic.otf"
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Italic.ttf",
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Medium.ttf",
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-MediumItalic.ttf",
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Regular.ttf",
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-Light.ttf",
+            "https://raw.githubusercontent.com/lxgw/LxgwBright/v$version/LXGWBright/LXGWBright-LightItalic.ttf"
         ]
     }
 }
